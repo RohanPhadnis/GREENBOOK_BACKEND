@@ -1,0 +1,10 @@
+# scratch files
+codex.txt
+
+# macOS system files
+DS_Store
+.DS_Store
+
+# Editor directories
+.idea/
+.vscode/
