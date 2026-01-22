@@ -38,4 +38,7 @@ app.get("/", (req, res) => {
   res.send("Carbon Footprint API is running");
 });
 
+const PORT = 3000;
+app.listen(PORT, () => console.log(`Server running on ${PORT}`));
+
 export default app;
